@@ -1,0 +1,19 @@
+body {
+    font-family: Cambria;
+    margin: 40px;
+}
+
+#taskInput {
+    width: 300px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+#addBtn {
+    padding:8px 12px;
+    font-size: 16px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
